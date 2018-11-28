@@ -1,0 +1,9 @@
+UP = 1
+DOWN = 2
+LEFT = 3
+RIGHT = 4
+
+FREE = 5
+APPLE = 6
+HEAD = 7
+BODY = 8
